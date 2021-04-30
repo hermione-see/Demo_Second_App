@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Demo My Second App</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="welcome_to_android">Welcome to Android!</string>
+    <string name="tvName">Name</string>
+    <string name="tvPw">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
 </resources>
